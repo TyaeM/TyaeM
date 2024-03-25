@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TyaeM
-- 👀 I’m interested in Website Development, Modding, Mobile App Development, Video Editing, and 3D Model Rigging.   
+- 👀 I’m interested in Website Development, Mobile App Development, Game Development, Modding, Video Editing, and 3D Model Rigging.   
 - 🌱 I’m currently learning Swift, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
