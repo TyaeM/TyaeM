@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TyaeM
 - 👀 I’m interested in Website Development, Mobile App Development, Game Development, Modding, Video Editing, and 3D Model Rigging.   
-- 🌱 I’m currently learning Swift, 
+- 🌱 I’m currently learning Swift,Three.js, React, and Tailwind. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
