@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TyaeM
+- 👋 Hi, I’m @TydevTD
 - 👀 I’m interested in Website Development, Mobile App Development, Game Development, Modding, Video Editing, and 3D Model Rigging.   
 - 🌱 I’m currently learning Swift,Three.js, React, and Tailwind. 
 - 💞️ I’m looking to collaborate on ...
